@@ -1,0 +1,8 @@
+{
+    "name": "hello-there",
+    "description": "A plugin that greets you with an Obi-Wan Kenobi quote.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Joe Zamolo"
+    }
+}
